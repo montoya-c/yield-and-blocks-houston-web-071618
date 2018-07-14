@@ -1,5 +1,5 @@
 def hello_t (array)
-  array = 
+  array = ["Tim", "Tom", "Jim"]
 
 # call your method here!
 
