@@ -19,3 +19,4 @@ hello_t(["Tim", "Tom", "Jim"]) do |name|
   end
 end
 
+ other_names = ["Ali", "Jasmine", "Persephone"]
